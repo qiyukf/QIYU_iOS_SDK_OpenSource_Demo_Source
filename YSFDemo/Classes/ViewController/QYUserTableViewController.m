@@ -7,14 +7,14 @@
 //
 
 #import "QYUserTableViewController.h"
-#import "QIYU_iOS_SDK_OpenSource/QYSDK.h"
-#import "QIYU_iOS_SDK_OpenSource/UIView+YSFToast.h"
-#import "QIYU_iOS_SDK_OpenSource/UIView+YSF.h"
-#import "QIYU_iOS_SDK_OpenSource/YSFCommonTableData.h"
-#import "QIYU_iOS_SDK_OpenSource/YSFCommonTableDelegate.h"
-#import "QIYU_iOS_SDK_OpenSource/YSFCommonTableViewCell.h"
+#import "QYSDK.h"
+#import "UIView+YSFToast.h"
+#import "UIView+YSF.h"
+#import "YSFCommonTableData.h"
+#import "YSFCommonTableDelegate.h"
+#import "YSFCommonTableViewCell.h"
 #import "QYReportUserInfoViewController.H"
-#import "QIYU_iOS_SDK_OpenSource/UIAlertView+YSF.h"
+#import "UIAlertView+YSF.h"
 
 
 @interface YSFUserCell : UITableViewCell<YSFCommonTableViewCell>

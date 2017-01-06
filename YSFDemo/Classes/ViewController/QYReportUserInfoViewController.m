@@ -7,7 +7,7 @@
 //
 
 #import "QYReportUserInfoViewController.h"
-#import "QIYU_iOS_SDK_OpenSource/QYSDK.h"
+#import "QYSDK.h"
 
 @interface QYReportUserInfoViewController ()
 @property (weak, nonatomic) IBOutlet UITextField *userId;

@@ -7,7 +7,7 @@
 //
 
 #import "QYDemoConfig.h"
-#import "QIYU_iOS_SDK_OpenSource/QYSDK.h"
+#import "QYSDK.h"
 
 @interface QYDemoConfig ()
 @end

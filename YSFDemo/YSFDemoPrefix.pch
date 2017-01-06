@@ -12,7 +12,7 @@
 #ifdef __OBJC__
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
-#import "QIYU_iOS_SDK_OpenSource/YSFMacro.h"
+#import "YSFMacro.h"
 
 #endif
 #endif

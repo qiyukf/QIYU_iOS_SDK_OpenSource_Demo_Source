@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "248920DA82B394BAE961BAA552C660C921B67D49",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "33BE0600E7F74E78C14CD0C14CF0F446BCF7FBD2" : 9223372036854775807,
+    "248920DA82B394BAE961BAA552C660C921B67D49" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "21FD64F7-B888-4300-914C-86958223A63F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "33BE0600E7F74E78C14CD0C14CF0F446BCF7FBD2" : "QIYU_iOS_SDK_OpenSource\/",
+    "248920DA82B394BAE961BAA552C660C921B67D49" : "QIYU_iOS_SDK_OpenSource_Demo_Source\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YSFDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YSFDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qiyukf\/QIYU_iOS_SDK_OpenSource_Demo_Source",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "248920DA82B394BAE961BAA552C660C921B67D49"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qiyukf\/QIYU_iOS_SDK_OpenSource",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "33BE0600E7F74E78C14CD0C14CF0F446BCF7FBD2"
+    }
+  ]
+}

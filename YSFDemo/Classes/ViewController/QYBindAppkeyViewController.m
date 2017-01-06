@@ -2,13 +2,13 @@
 #import "QYUserTableViewController.h"
 #import "QRcodeScanController.h"
 #import "QYAddAppKeyViewController.h"
-#import "QIYU_iOS_SDK_OpenSource/QYSDK.h"
+#import "QYSDK.h"
 #import "QYDemoConfig.h"
-#import "QIYU_iOS_SDK_OpenSource/YSFCommonTableData.h"
-#import "QIYU_iOS_SDK_OpenSource/YSFCommonTableDelegate.h"
-#import "QIYU_iOS_SDK_OpenSource/YSFCommonTableViewCell.h"
-#import "QIYU_iOS_SDK_OpenSource/UIView+YSFToast.h"
-#import "QIYU_iOS_SDK_OpenSource/UIAlertView+YSF.h"
+#import "YSFCommonTableData.h"
+#import "YSFCommonTableDelegate.h"
+#import "YSFCommonTableViewCell.h"
+#import "UIView+YSFToast.h"
+#import "UIAlertView+YSF.h"
 
 
 @implementation QYAppKeyConfig

@@ -7,13 +7,13 @@
 //
 
 #import "QYMainViewController.h"
-#import "QIYU_iOS_SDK_OpenSource/QYSDK.h"
+#import "QYSDK.h"
 #import "QYDemoBadgeView.h"
 #import "QYLogViewController.h"
-#import "QIYU_iOS_SDK_OpenSource/UIView+YSFToast.h"
+#import "UIView+YSFToast.h"
 #import "QYUserTableViewController.h"
 #import "QYDetailViewController.h"
-#import "QIYU_iOS_SDK_OpenSource/UIView+YSF.h"
+#import "UIView+YSF.h"
 
 
 @interface QYMainViewController () <QYConversationManagerDelegate>

@@ -10,10 +10,10 @@
 #import "YXCapture.h"
 #import "AVFoundation/AVFoundation.h"
 #import "ZXingObjC.h"
-#import "QIYU_iOS_SDK_OpenSource/UIView+YSFToast.h"
-#import "QIYU_iOS_SDK_OpenSource/UIAlertView+YSF.h"
-#import "QIYU_iOS_SDK_OpenSource/UIView+YSF.h"
-#include "QIYU_iOS_SDK_OpenSource/UIView+Animation.h"
+#import "UIView+YSFToast.h"
+#import "UIAlertView+YSF.h"
+#import "UIView+YSF.h"
+#include "UIView+Animation.h"
 
 
 #define kNetworkTipView     10010

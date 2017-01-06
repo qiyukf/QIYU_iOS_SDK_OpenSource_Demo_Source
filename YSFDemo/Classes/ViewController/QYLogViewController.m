@@ -7,7 +7,7 @@
 //
 
 #import "QYLogViewController.h"
-#import "QIYU_iOS_SDK_OpenSource/UIView+YSFToast.h"
+#import "UIView+YSFToast.h"
 
 @interface QYLogViewController ()
 @property (strong, nonatomic) IBOutlet UITextView *logTextView;

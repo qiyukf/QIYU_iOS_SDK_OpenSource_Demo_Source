@@ -7,7 +7,7 @@
 //
 
 #import "QYCommodityInfoViewController.h"
-#import "QIYU_iOS_SDK_OpenSource/QYSdk.h"
+#import "QYSdk.h"
 
 
 

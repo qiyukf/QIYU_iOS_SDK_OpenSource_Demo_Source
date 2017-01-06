@@ -8,7 +8,7 @@
 
 #import "AppDelegate.h"
 #import "QYHomePageViewController.h"
-#import "QIYU_iOS_SDK_OpenSource/QYSDK.h"
+#import "QYSDK.h"
 #import "QYDemoConfig.h"
 
 #define YSFSelectAppKey 1

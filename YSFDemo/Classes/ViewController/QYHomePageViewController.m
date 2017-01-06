@@ -9,8 +9,8 @@
 #import "QYHomePageViewController.h"
 #import "QYBindAppkeyViewController.h"
 #import "QYDemoConfig.h"
-#import "QIYU_iOS_SDK_OpenSource/QYSDK.h"
-#import "QIYU_iOS_SDK_OpenSource/UIView+YSFToast.h"
+#import "QYSDK.h"
+#import "UIView+YSFToast.h"
 
 #define TabbarVC    @"vc"
 #define TabbarTitle @"title"
