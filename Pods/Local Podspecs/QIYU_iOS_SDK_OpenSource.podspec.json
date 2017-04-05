@@ -1,6 +1,6 @@
 {
   "name": "QIYU_iOS_SDK_OpenSource",
-  "version": "3.3.3",
+  "version": "3.5.0",
   "license": {
     "type": "Copyright",
     "text": " Copyright 2016 Netease \n"
@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/qiyukf/QIYU_iOS_SDK_OpenSource.git",
-    "tag": "3.3.3"
+    "tag": "3.5.0"
   },
   "platforms": {
     "ios": "7.0"

@@ -1,1 +1,1 @@
-../../../../../QIYU_iOS_SDK_OpenSource/SDK/YSFSDK/Classes/Config/YSFServerSetting.h
+../../../../../QIYU_iOS_SDK_OpenSource/SDK/YSFSessionViewController/Common/YSFServerSetting.h

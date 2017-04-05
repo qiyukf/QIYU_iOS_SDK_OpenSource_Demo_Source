@@ -1,13 +1,13 @@
 PODS:
-  - QIYU_iOS_SDK_OpenSource (3.3.3):
-    - QIYU_iOS_SDK_OpenSource/NIMLib (= 3.3.3)
-    - QIYU_iOS_SDK_OpenSource/YSFSDK (= 3.3.3)
-    - QIYU_iOS_SDK_OpenSource/YSFSessionViewController (= 3.3.3)
-    - QIYU_iOS_SDK_OpenSource/YSFVendor (= 3.3.3)
-  - QIYU_iOS_SDK_OpenSource/NIMLib (3.3.3)
-  - QIYU_iOS_SDK_OpenSource/YSFSDK (3.3.3)
-  - QIYU_iOS_SDK_OpenSource/YSFSessionViewController (3.3.3)
-  - QIYU_iOS_SDK_OpenSource/YSFVendor (3.3.3)
+  - QIYU_iOS_SDK_OpenSource (3.5.0):
+    - QIYU_iOS_SDK_OpenSource/NIMLib (= 3.5.0)
+    - QIYU_iOS_SDK_OpenSource/YSFSDK (= 3.5.0)
+    - QIYU_iOS_SDK_OpenSource/YSFSessionViewController (= 3.5.0)
+    - QIYU_iOS_SDK_OpenSource/YSFVendor (= 3.5.0)
+  - QIYU_iOS_SDK_OpenSource/NIMLib (3.5.0)
+  - QIYU_iOS_SDK_OpenSource/YSFSDK (3.5.0)
+  - QIYU_iOS_SDK_OpenSource/YSFSessionViewController (3.5.0)
+  - QIYU_iOS_SDK_OpenSource/YSFVendor (3.5.0)
 
 DEPENDENCIES:
   - QIYU_iOS_SDK_OpenSource (from `../QIYU_iOS_SDK_OpenSource/`)
@@ -17,7 +17,7 @@ EXTERNAL SOURCES:
     :path: ../QIYU_iOS_SDK_OpenSource/
 
 SPEC CHECKSUMS:
-  QIYU_iOS_SDK_OpenSource: 0cc601f3c2b9789c03dd66888d6e41ab479adffc
+  QIYU_iOS_SDK_OpenSource: 7d98e05a3c031f602018904ec0aaa2392538d79d
 
 PODFILE CHECKSUM: 12b5e2f43b50eb03dedf9a84f11d5e1254498b82
 

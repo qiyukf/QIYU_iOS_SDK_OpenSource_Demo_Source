@@ -1,0 +1,1 @@
+../../../../../QIYU_iOS_SDK_OpenSource/SDK/YSFSessionViewController/YSF_NIMMessage+YSF.h

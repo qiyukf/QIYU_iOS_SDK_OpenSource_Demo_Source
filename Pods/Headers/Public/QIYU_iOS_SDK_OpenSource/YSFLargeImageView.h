@@ -1,1 +1,1 @@
-../../../../../QIYU_iOS_SDK_OpenSource/SDK/YSFVendor/UI/UIComponent/YSFImagePicker/CustomUI/YSFLargeImageView.h
+../../../../../QIYU_iOS_SDK_OpenSource/SDK/YSFVendor/UI/UIComponent/FullScreenImagePreview/YSFLargeImageView.h
