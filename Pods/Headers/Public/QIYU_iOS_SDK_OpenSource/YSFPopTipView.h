@@ -1,1 +1,1 @@
-../../../../../QIYU_iOS_SDK_OpenSource/SDK/YSFSDK/Classes/Util/YSFPopTipView.h
+../../../../../QIYU_iOS_SDK_OpenSource/SDK/YSFVendor/UI/YSFPopTipView/YSFPopTipView.h
