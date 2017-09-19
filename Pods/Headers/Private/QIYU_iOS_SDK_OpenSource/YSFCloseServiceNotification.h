@@ -1,1 +1,1 @@
-../../../../../QIYU_iOS_SDK_OpenSource/SDK/YSFSDK/Classes/ServerAPI/IMCustomSystemMessage/Receive/YSFCloseServiceNotification.h
+../../../../../QIYU_iOS_SDK_OpenSource/SDK/YSFSessionViewController/Session/CustomObject/Model/YSFCloseServiceNotification.h
