@@ -1,6 +1,6 @@
 {
   "name": "QIYU_iOS_SDK_OpenSource",
-  "version": "3.11.0",
+  "version": "3.11.2",
   "license": {
     "type": "Copyright",
     "text": " Copyright 2016 Netease \n"
@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/qiyukf/QIYU_iOS_SDK_OpenSource.git",
-    "tag": "3.11.0"
+    "tag": "3.11.2"
   },
   "platforms": {
     "ios": "7.0"
@@ -45,6 +45,9 @@
   ],
   "requires_arc": true,
   "prefix_header_contents": "#import <UIKit/UIKit.h>\n                                #import \"YSFMacro.h\"\n                                #import \"UIView+YSFToast.h\"\n                                #import \"UIImage+GetImage.h\"\n                                #import \"UIView+Animation.h\"\n                                #import \"UIView+YSFWebCacheOperation.h\"\n                                #import \"UIAlertView+YSF.h\"\n                                #import \"UIView+YSF.h\"\n                                #import \"UIImage+YSF.h\"\n                                #import \"NSString+YSF.h\"\n                                #import \"NSDictionary+YSF.h\"\n                                #import \"NIMSDK.h\"\n                                #import \"UILayoutKit.h\"",
+  "xcconfig": {
+    "GCC_PREPROCESSOR_DEFINITIONS": "NDEBUG=1"
+  },
   "subspecs": [
     {
       "name": "NIMLib",

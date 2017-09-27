@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '08D80E4672695C1C5030ACEAEE9FBBE2'
+               BlueprintIdentifier = 'B780528F1560AD52BC0E0E8316739D53'
                BlueprintName = 'QIYU_iOS_SDK_OpenSource'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libQIYU_iOS_SDK_OpenSource.a'>

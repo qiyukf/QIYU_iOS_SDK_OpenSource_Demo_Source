@@ -1,1 +1,1 @@
-../../../../../QIYU_iOS_SDK_OpenSource/SDK/YSFSessionViewController/CustomUIConfig/QYCustomActionConfig.h
+../../../../../QIYU_iOS_SDK_OpenSource/SDK/ExportHeaders/QYCustomActionConfig.h
