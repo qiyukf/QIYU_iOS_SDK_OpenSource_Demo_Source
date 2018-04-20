@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0700"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'B780528F1560AD52BC0E0E8316739D53'
-               BlueprintName = 'QIYU_iOS_SDK_OpenSource'
-               ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libQIYU_iOS_SDK_OpenSource.a'>
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B780528F1560AD52BC0E0E8316739D53"
+               BlueprintName = "QIYU_iOS_SDK_OpenSource"
+               ReferencedContainer = "container:Pods.xcodeproj"
+               BuildableName = "libQIYU_iOS_SDK_OpenSource.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
