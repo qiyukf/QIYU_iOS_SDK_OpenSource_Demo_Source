@@ -258,6 +258,7 @@
 		2B3A8D722089E05000AB0366 /* YSFCommonTableDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B3A8D502089E05000AB0366 /* YSFCommonTableDelegate.m */; };
 		2B3A8D732089E05000AB0366 /* QYAvatarImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B3A8D532089E05000AB0366 /* QYAvatarImageView.m */; };
 		2B3A8D742089E05000AB0366 /* QYDemoBadgeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B3A8D552089E05000AB0366 /* QYDemoBadgeView.m */; };
+		2BC6EF1220A4200000267129 /* ysf_dev.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2BC6EF1120A4200000267129 /* ysf_dev.plist */; };
 		E48973051B8C016E001C96EC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E48973041B8C016E001C96EC /* main.m */; };
 		E48973081B8C016E001C96EC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E48973071B8C016E001C96EC /* AppDelegate.m */; };
 		E48973101B8C016E001C96EC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E489730F1B8C016E001C96EC /* Images.xcassets */; };
@@ -782,6 +783,7 @@
 		2B3A8D532089E05000AB0366 /* QYAvatarImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QYAvatarImageView.m; sourceTree = "<group>"; };
 		2B3A8D542089E05000AB0366 /* QYDemoBadgeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QYDemoBadgeView.h; sourceTree = "<group>"; };
 		2B3A8D552089E05000AB0366 /* QYDemoBadgeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QYDemoBadgeView.m; sourceTree = "<group>"; };
+		2BC6EF1120A4200000267129 /* ysf_dev.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ysf_dev.plist; sourceTree = "<group>"; };
 		E43BA2081BA27C9E0046F016 /* ysf_debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = ysf_debug.xcconfig; sourceTree = "<group>"; };
 		E48972FF1B8C016E001C96EC /* YSFDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YSFDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E48973031B8C016E001C96EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -1742,6 +1744,7 @@
 			isa = PBXGroup;
 			children = (
 				E48973031B8C016E001C96EC /* Info.plist */,
+				2BC6EF1120A4200000267129 /* ysf_dev.plist */,
 				E48973041B8C016E001C96EC /* main.m */,
 				E43BA2081BA27C9E0046F016 /* ysf_debug.xcconfig */,
 				E4F0F06A1BB12B9300577B26 /* ysf_release.xcconfig */,
@@ -1814,6 +1817,7 @@
 				E48973101B8C016E001C96EC /* Images.xcassets in Resources */,
 				2B3A8D5B2089E05000AB0366 /* QYDetailViewController.xib in Resources */,
 				2B3A8D622089E05000AB0366 /* QYAddAppKeyViewController.xib in Resources */,
+				2BC6EF1220A4200000267129 /* ysf_dev.plist in Resources */,
 				2B3A8D5E2089E05000AB0366 /* QYMainViewController.xib in Resources */,
 				2B3A8D6D2089E05000AB0366 /* QYShopInfoViewController.xib in Resources */,
 				2B3A8D652089E05000AB0366 /* QYCommodityInfoViewController.xib in Resources */,

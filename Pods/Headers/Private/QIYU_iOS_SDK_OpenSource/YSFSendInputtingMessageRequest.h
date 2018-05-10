@@ -1,1 +1,1 @@
-../../../../../QIYU_iOS_SDK_OpenSource/SDK/YSFSDK/Classes/ServerAPI/IMCustomSystemMessage/Receive/YSFSendInputtingMessageRequest.h
+../../../../../QIYU_iOS_SDK_OpenSource/SDK/YSFSessionViewController/Model/YSFSendInputtingMessageRequest.h
