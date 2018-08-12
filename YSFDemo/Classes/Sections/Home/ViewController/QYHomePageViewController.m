@@ -77,12 +77,12 @@
 
 - (void)readAppkey
 {
-//    QYAppKeyConfig *config = [NSKeyedUnarchiver unarchiveObjectWithFile:[self configFilepath]];
-//    if (config)
-//    {
-        [[QYDemoConfig sharedConfig] setAppKey:@"4216bcf7368c02d3b18eab6aed9eb705"];
-        [[QYDemoConfig sharedConfig] setEnvironment:YES];
-//    }
+    QYAppKeyConfig *config = [NSKeyedUnarchiver unarchiveObjectWithFile:[self configFilepath]];
+    if (config)
+    {
+        [[QYDemoConfig sharedConfig] setAppKey:config.appKey];
+        [[QYDemoConfig sharedConfig] setEnvironment:config.useDevEnvironment];
+    }
 
     NSString *appKey = [[QYDemoConfig sharedConfig] appKey];
     NSString *appName= [[QYDemoConfig sharedConfig] appName];
